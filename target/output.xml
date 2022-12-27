@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="2" time="4.793011">
+<testcase classname="find employe details" name="details of employee" time="3.515205">
+<system-out><![CDATA[Given url is ready..........................................................passed
+When get url hitted.........................................................passed
+Then validate response......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validation of get method" name="Send a valid Request to get user details" time="1.277806">
+<skipped><![CDATA[Given I send a request to the URL to get user details.......................pending
+Then the response will return status........................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
