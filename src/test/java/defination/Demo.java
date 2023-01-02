@@ -36,5 +36,7 @@ public class Demo {
 
         System.out.println("helo4");
         System.out.println("helo 5");
+
+        System.out.println();
     }
 }
